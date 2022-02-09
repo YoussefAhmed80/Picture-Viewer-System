@@ -1,0 +1,10 @@
+C:\Users\Welcome\source\repos\Project c Sharp\bin\Debug\Project c Sharp.exe.config
+C:\Users\Welcome\source\repos\Project c Sharp\bin\Debug\Project c Sharp.exe
+C:\Users\Welcome\source\repos\Project c Sharp\bin\Debug\Project c Sharp.pdb
+C:\Users\Welcome\source\repos\Project c Sharp\obj\Debug\Project c Sharp.csprojAssemblyReference.cache
+C:\Users\Welcome\source\repos\Project c Sharp\obj\Debug\Project_c_Sharp.Form1.resources
+C:\Users\Welcome\source\repos\Project c Sharp\obj\Debug\Project_c_Sharp.Properties.Resources.resources
+C:\Users\Welcome\source\repos\Project c Sharp\obj\Debug\Project c Sharp.csproj.GenerateResource.cache
+C:\Users\Welcome\source\repos\Project c Sharp\obj\Debug\Project c Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\Project c Sharp\obj\Debug\Project c Sharp.exe
+C:\Users\Welcome\source\repos\Project c Sharp\obj\Debug\Project c Sharp.pdb
